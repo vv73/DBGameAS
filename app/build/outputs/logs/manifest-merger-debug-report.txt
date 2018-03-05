@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\admin\.android\build-cache\b6c6820ed954c2e7df65417a33517f7a21985ae7\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\admin\.android\build-cache\61d4137594f273c82646ed504af0bcbc7b6d00a0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\admin\.android\build-cache\d163281aaeaa86047d0cf2cd57fc898d69d27436\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\admin\.android\build-cache\1a86da30d4979095f8e92ea37afacc99b4bc341d\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\admin\.android\build-cache\acfa598eb0ae34a7ae7d0c05f39dd0e525538957\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\admin\.android\build-cache\9212f0723052e78e9700aa1403e0ccd020cc1a64\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\admin\.android\build-cache\854da865ede22c4160a2825c9370d6dc570b3608\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\admin\.android\build-cache\d9256899455e830e2bd43902e8ea31de8cf10102\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\admin\.android\build-cache\2239b59d1c17897d88679c5dc96d3f8250c9c7aa\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\admin\.android\build-cache\42ed7d1577c96a2e1e5ea72a9b489cbad93a905d\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.0] C:\Users\admin\.android\build-cache\b6c6820ed954c2e7df65417a33517f7a21985ae7\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml:13:22-77
+application
+ADDED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml:15:5-32:19
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\admin\.android\build-cache\b6c6820ed954c2e7df65417a33517f7a21985ae7\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\admin\.android\build-cache\61d4137594f273c82646ed504af0bcbc7b6d00a0\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\admin\.android\build-cache\d163281aaeaa86047d0cf2cd57fc898d69d27436\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\admin\.android\build-cache\1a86da30d4979095f8e92ea37afacc99b4bc341d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\admin\.android\build-cache\acfa598eb0ae34a7ae7d0c05f39dd0e525538957\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\admin\.android\build-cache\9212f0723052e78e9700aa1403e0ccd020cc1a64\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\admin\.android\build-cache\854da865ede22c4160a2825c9370d6dc570b3608\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\admin\.android\build-cache\d9256899455e830e2bd43902e8ea31de8cf10102\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\admin\.android\build-cache\2239b59d1c17897d88679c5dc96d3f8250c9c7aa\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\admin\.android\build-cache\42ed7d1577c96a2e1e5ea72a9b489cbad93a905d\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml:16:9-44
+	android:theme
+		ADDED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml:18:9-40
+activity#ru.samsung.itschool.dbgame.MainActivity
+ADDED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml:20:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml:25:27-74
+activity#ru.samsung.itschool.dbgame.HoFActivity
+ADDED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml:28:9-30:68
+	android:label
+		ADDED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml:29:13-40
+activity#ru.samsung.itschool.dbgame.StatActivity
+ADDED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml:31:9-59
+	android:name
+		ADDED from C:\Users\admin\Downloads\DBGame-master\app\src\main\AndroidManifest.xml:31:19-47

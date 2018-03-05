@@ -1,0 +1,75 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="14dp"
+        android:layout_marginTop="10dp"
+        android:padding="10dp"
+        android:text="Your name"
+        android:textSize="30dp" />
+
+    <EditText
+        android:id="@+id/playerName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@id/textView1"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:padding="10dp"
+        android:text="Player One"
+        android:textAlignment="center"
+        android:textSize="30dp" >
+    </EditText>
+
+    <TextView
+        android:id="@+id/GameResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/playerName"
+        android:layout_centerHorizontal="true"
+        android:padding="20dp"
+        android:text=""
+        android:textSize="100dp" />
+
+    <Button
+        android:id="@+id/hallOfFame"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:onClick="showHoF"
+        android:textSize="30dp" 
+        android:text="Hall of Fame" />
+    <Button
+        android:id="@+id/stat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:onClick="stat"
+        android:textSize="30dp"
+        android:text="Stat" />
+
+    <ImageButton
+        android:id="@+id/playButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/hallOfFame"
+        android:layout_below="@id/GameResult"
+        android:layout_centerHorizontal="true"
+        android:background="@null"
+        android:onClick="play"
+        android:scaleType="fitCenter"
+        android:src="@drawable/green" />
+
+</RelativeLayout>

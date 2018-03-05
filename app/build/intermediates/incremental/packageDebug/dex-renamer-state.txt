@@ -1,0 +1,7 @@
+#Mon Mar 05 16:57:45 EET 2018
+base.0=C\:\\Users\\admin\\Downloads\\DBGame-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0d1863de1740120175e79a20ffcde96e6bc8be53
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\admin\\Downloads\\DBGame-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fd4a4b23154135ae0452e303e9f74f9b72d8e3ec\\classes.dex
+base.1=C\:\\Users\\admin\\Downloads\\DBGame-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fd4a4b23154135ae0452e303e9f74f9b72d8e3ec
+file.0=C\:\\Users\\admin\\Downloads\\DBGame-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0d1863de1740120175e79a20ffcde96e6bc8be53\\classes.dex
