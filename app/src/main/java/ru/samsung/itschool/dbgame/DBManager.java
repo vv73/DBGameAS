@@ -35,11 +35,13 @@ public class DBManager {
 		db.execSQL("INSERT INTO RESULTS VALUES ('" + username + "', " + score
 				+ ");");
 	}
+	// Player One 150
+	// Запрос
+	// INSERT INTO RESULTS VALUES('Player One', 150);
 
 
 
 	ArrayList<Result> getAllResults() {
-
 		ArrayList<Result> data = new ArrayList<Result>();
 		Cursor cursor = db.rawQuery("SELECT * FROM RESULTS;", null);
 		boolean hasMoreData = cursor.moveToFirst();
@@ -57,11 +59,6 @@ public class DBManager {
 
 	private void createTablesIfNeedBe() {
 		db.execSQL("CREATE TABLE IF NOT EXISTS RESULTS (USERNAME TEXT, SCORE INTEGER);");
-	}
-
-	private boolean dbExist() {
-		File dbFile = context.getDatabasePath(DB_NAME);
-		return dbFile.exists();
 	}
 
 }
